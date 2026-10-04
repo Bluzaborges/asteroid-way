@@ -1,0 +1,20 @@
+# Assembler and linker output
+*.bin
+*.com
+*.err
+*.exe
+*.lst
+*.map
+*.obj
+
+# Emulator state and temporary files
+*.bak
+*.tmp
+
+# IDE and editor settings
+/.idea/
+/.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
